@@ -21,17 +21,6 @@ The link containing the video to this challenge can be found here: https://youtu
 
 My teammates and I distributed the workload in a reasonable manner so that we both are able to benefit from this project. The detailed work division is as follows.
 
-<li> Space Invaders Controller </li>
-
-| Item  | Person |
-| ------------ | ----------- |
-| Arduino Code for smoother movement | W.H. |
-| Arduino Code for decoupling firing and movement| X.H. |
-| Realization of speed control    | X.H. |
-| Arduino & Python code for quitting game via Photo-detector |W.H. |
-| Arduino & Python Code for LED feedback | Team |
-| Python Code for displaying current score | Team |
-
 <li> Design Challenge </li>
 
 | Item  | Person |
